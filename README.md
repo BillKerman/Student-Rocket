@@ -14,3 +14,4 @@ Conducted detailed design and performance simulations using **OpenRocket**.
 
 ---
 🔬 *Pushing the boundaries of amateur rocketry!*  
+![Prakhar 1 SolidWorks model](Prakhar 1 SolidWorks model.png)
